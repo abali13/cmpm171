@@ -5,7 +5,7 @@ using UnityEngine;
 public class movement : MonoBehaviour { 
 
     float directionX;
-    float walkSpeed = 6f;
+    public float walkSpeed = 6f;
     
 
     // ground
